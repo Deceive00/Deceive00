@@ -26,3 +26,6 @@ I am Eldrian Daniswara Giovanni 😃.
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## ⚡ Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deceive00\&hide_progress=true)
