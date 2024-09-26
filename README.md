@@ -9,13 +9,6 @@
 I am Eldrian Daniswara Giovanni 😃.
 
 ## ⚡ Technologies
-Talk to me about
-
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.
-
-Last Edited on: 08/09/2020
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
